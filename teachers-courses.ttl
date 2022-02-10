@@ -1,0 +1,12 @@
+<http://example.org/upsaclay/fatiha> <http://www.w3.org/2000/01/rdf-schema#label> "Fatiha".
+<http://example.org/upsaclay/joe> <http://www.w3.org/2000/01/rdf-schema#label> "Joe".
+<http://example.org/upsaclay/alain> <http://www.w3.org/2000/01/rdf-schema#label> "Alain".
+<http://example.org/upsaclay/fatiha> <http://example.org/upsaclay/teaches> <http://example.org/upsaclay/courseA>.
+<http://example.org/upsaclay/fatiha> <http://example.org/upsaclay/teaches> <http://example.org/upsaclay/courseB>.
+<http://example.org/upsaclay/fatiha> <http://example.org/upsaclay/teaches> <http://example.org/upsaclay/courseC>.
+<http://example.org/upsaclay/fatiha> <http://example.org/upsaclay/teaches> <http://example.org/upsaclay/courseD>.
+<http://example.org/upsaclay/fatiha> <http://example.org/upsaclay/teaches> <http://example.org/upsaclay/courseE>.
+<http://example.org/upsaclay/joe> <http://example.org/upsaclay/teaches> <http://example.org/upsaclay/courseA>.
+<http://example.org/upsaclay/joe> <http://example.org/upsaclay/teaches> <http://example.org/upsaclay/courseB>.
+<http://example.org/upsaclay/joe> <http://example.org/upsaclay/teaches> <http://example.org/upsaclay/courseC>.
+<http://example.org/upsaclay/alain> <http://example.org/upsaclay/teaches> <http://example.org/upsaclay/courseA>.
